@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331260576635",
+    "project_id": "authenticationapp-d1f16",
+    "storage_bucket": "authenticationapp-d1f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331260576635:android:e8cd1fa25881be336cb3de",
+        "android_client_info": {
+          "package_name": "com.thalassophile.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331260576635-9ns4u9r5rt5mi3ec56an96jmn54nhgfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4aUAR3Rg7HuZn3Vogo_oQwEdJOwLBNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331260576635-9ns4u9r5rt5mi3ec56an96jmn54nhgfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
